@@ -2,8 +2,8 @@
 
 ### Hi there, I'm Lacie 👋
 
-Delving into
+### Delving into
 
--  &nbsp; iOS (Swift)
-- 👯 Flutter
+- 🔨 iOS (Swift)
+- 📙 Flutter
 - 🌱 Backend (NestJS)
